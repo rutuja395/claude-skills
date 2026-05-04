@@ -4,3 +4,14 @@ __pycache__/
 *.egg-info/
 .env
 *.skill
+
+# Never commit personal financial data
+*.pdf
+*.PDF
+*.xlsx
+*.xls
+*.csv
+*.tsv
+output*/
+data/
+sample_data/
