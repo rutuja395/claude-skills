@@ -1,0 +1,16 @@
+{
+  "name": "finance-analyser-skills",
+  "description": "Universal bank statement analyser — works with any bank worldwide",
+  "plugins": [
+    {
+      "name": "finance-analyser",
+      "description": "Analyse PDF bank and credit card statements from any bank worldwide (HDFC, Kotak, Barclays, Chase, CommBank, and more). Automatically extracts transactions, categorises spending into 18 categories, detects currency, and generates a formatted Excel report with charts, monthly trends, top merchants, and a budget planner.",
+      "source": "./skills/finance-analyser",
+      "category": "productivity",
+      "tags": ["finance", "banking", "spending", "analysis", "excel", "pdf", "budget", "personal-finance"],
+      "version": "1.0.0",
+      "author": "rutuja395",
+      "repository": "https://github.com/rutuja395/claude-skills"
+    }
+  ]
+}
